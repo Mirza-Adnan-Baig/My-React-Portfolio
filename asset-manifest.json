@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/ExpensesCalculator/static/css/main.5a53107b.css",
-    "main.js": "/ExpensesCalculator/static/js/main.1a38344d.js",
-    "static/media/cv.pdf": "/ExpensesCalculator/static/media/cv.1676dcdc83730930d888.pdf",
-    "static/media/mirza-about.jpg": "/ExpensesCalculator/static/media/mirza-about.d53fa8cca96552846f55.jpg",
-    "static/media/mirza.png": "/ExpensesCalculator/static/media/mirza.d85056820619c6f8cbba.png",
-    "static/media/C1.jpg": "/ExpensesCalculator/static/media/C1.6cb0fb1ffc9f5ee44b6e.jpg",
-    "static/media/portfolio2.jpg": "/ExpensesCalculator/static/media/portfolio2.cd865f3df234f2c29a61.jpg",
-    "static/media/portfolio1.jpg": "/ExpensesCalculator/static/media/portfolio1.14278061823fbd5e3e02.jpg",
-    "static/media/portfolio3.jpg": "/ExpensesCalculator/static/media/portfolio3.57a5ca799c78b3452f22.jpg",
-    "static/media/C2.jpg": "/ExpensesCalculator/static/media/C2.6b687012c0a3de908b2e.jpg",
-    "index.html": "/ExpensesCalculator/index.html",
-    "main.5a53107b.css.map": "/ExpensesCalculator/static/css/main.5a53107b.css.map",
-    "main.1a38344d.js.map": "/ExpensesCalculator/static/js/main.1a38344d.js.map"
+    "main.css": "/My-React-Portfolio/static/css/main.5a53107b.css",
+    "main.js": "/My-React-Portfolio/static/js/main.587e8705.js",
+    "static/media/cv.pdf": "/My-React-Portfolio/static/media/cv.1676dcdc83730930d888.pdf",
+    "static/media/mirza-about.jpg": "/My-React-Portfolio/static/media/mirza-about.d53fa8cca96552846f55.jpg",
+    "static/media/mirza.png": "/My-React-Portfolio/static/media/mirza.d85056820619c6f8cbba.png",
+    "static/media/C1.jpg": "/My-React-Portfolio/static/media/C1.6cb0fb1ffc9f5ee44b6e.jpg",
+    "static/media/portfolio2.jpg": "/My-React-Portfolio/static/media/portfolio2.cd865f3df234f2c29a61.jpg",
+    "static/media/portfolio1.jpg": "/My-React-Portfolio/static/media/portfolio1.14278061823fbd5e3e02.jpg",
+    "static/media/portfolio3.jpg": "/My-React-Portfolio/static/media/portfolio3.57a5ca799c78b3452f22.jpg",
+    "static/media/C2.jpg": "/My-React-Portfolio/static/media/C2.6b687012c0a3de908b2e.jpg",
+    "index.html": "/My-React-Portfolio/index.html",
+    "main.5a53107b.css.map": "/My-React-Portfolio/static/css/main.5a53107b.css.map",
+    "main.587e8705.js.map": "/My-React-Portfolio/static/js/main.587e8705.js.map"
   },
   "entrypoints": [
     "static/css/main.5a53107b.css",
-    "static/js/main.1a38344d.js"
+    "static/js/main.587e8705.js"
   ]
 }
