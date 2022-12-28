@@ -20,7 +20,7 @@ const data = [
     image: IMG2,
     title: "Meine Portfolio-Website",
     github: "https://github.com/Mirza-Adnan-Baig/My-React-Portfolio.git",
-    demo: "https://distrodigitizing.com",
+    demo: "http://Mirza-Adnan-Baig.github.io/My-React-Portfolio",
   },
   {
     id: 3,
