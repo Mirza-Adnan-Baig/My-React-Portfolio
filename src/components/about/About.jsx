@@ -27,12 +27,12 @@ const About = () => {
             <article className="about__card">
               <FiAward className="about__icon" />
               <h5>Projekte</h5>
-              <small>20+</small>
+              <small>10+</small>
             </article>
             <article className="about__card">
               <AiFillFolderOpen className="about__icon" />
               <h5>Repositories</h5>
-              <small>2 und mehr in Zukunft</small>
+              <small>3 und mehr in Zukunft</small>
             </article>
           </div>
           <p>
