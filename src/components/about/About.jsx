@@ -2,13 +2,13 @@ import React from "react";
 import "./about.css";
 import ME from "../../assets/mirza-about.jpg";
 import { FaAward } from "react-icons/fa";
-import { FiAward } from "react-icons/fi";
+import { FaLaptopCode } from "react-icons/fa";
 import { AiFillFolderOpen } from "react-icons/ai";
 const About = () => {
   return (
     <section id="about">
-      <h5>Erfahren Sie mehr</h5>
-      <h2>Über mich</h2>
+      <h5>Learn More</h5>
+      <h2>About Me</h2>
 
       <div className="container about__container">
         <div className="about__me">
@@ -21,31 +21,35 @@ const About = () => {
           <div className="about__cards">
             <article className="about__card">
               <FaAward className="about__icon" />
-              <h5>Erfahrung</h5>
-              <small>2+ Jahre Arbeit</small>
+              <h5>Experience</h5>
+              <small>2+ years in the field</small>
             </article>
             <article className="about__card">
-              <FiAward className="about__icon" />
-              <h5>Projekte</h5>
+              <FaLaptopCode className="about__icon" />
+              <h5>Projects</h5>
               <small>10+</small>
             </article>
             <article className="about__card">
               <AiFillFolderOpen className="about__icon" />
               <h5>Repositories</h5>
-              <small>3 und mehr in Zukunft</small>
+              <small>Follow me on Github</small>
             </article>
           </div>
           <p>
-            Ein autodidaktischer Website-Entwickler, der immer an das Lernen
-            glaubt. Ich habe gute Erfahrung in der Entwicklung von WordPress-
-            und Shopify-Websites. Ich möchte mich weiterentwickeln, indem ich in
-            die Welt der React-Website-Entwicklung einsteige. Ich bin konsequent
-            bei meinen Aufgaben und Projekten und werde ein sehr guter und
-            fokussierter Mitarbeiter sein, wenn man mir die Gelegenheit gibt.
+            I am a highly motivated computer science graduate with over 2 years
+            of experience in software development. My expertise lies in multiple
+            programming languages, including JavaScript, HTML5, CSS3, Node.js,
+            and SQL. I am passionate about tackling new challenges and
+            continuously expanding my knowledge base. With a strong desire to
+            learn and grow, I am always seeking opportunities to further enhance
+            my skills and stay updated with the latest industry trends. My
+            dedication to delivering high-quality software solutions and my
+            eagerness to embrace new technologies make me a valuable asset in
+            any software development team.
           </p>
-          <a href="#contact" className="btn btn-primary">
+          <a href="#contact" className="btn btn-primary" alt="Contact Section">
             {" "}
-            Kontakt
+            Contact
           </a>
         </div>
       </div>

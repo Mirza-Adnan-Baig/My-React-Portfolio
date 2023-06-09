@@ -20,8 +20,8 @@ const data = [
 const Certificates = () => {
   return (
     <section id="certificates">
-      <h5>Errungenschaften Ich habe</h5>
-      <h2>Meine Zertifikate</h2>
+      <h5>Achievements</h5>
+      <h2>My Certificates</h2>
       <div className="container certificates__container">
         {data.map(({ id, image, title, view }) => {
           return (
@@ -31,16 +31,12 @@ const Certificates = () => {
               </div>
               <h3>{title}</h3>
               <div className="certificates__item-cta">
-                {/* <a href={github} className="btn" target="__blank">
-                  Github
-                </a> */}
                 <a
                   href={view}
                   className="btn btn-primary"
                   target="_blank"
-                  rel="noreferrer"
-                >
-                  Zertifikate ansehen
+                  rel="noreferrer">
+                  View Certificate
                 </a>
               </div>
             </article>

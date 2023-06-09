@@ -12,27 +12,20 @@ const Contact = () => {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs
-      .sendForm(
-        "service_di2gzg9",
-        "template_v0ptjth",
-        form.current,
-        "NZrFMUlpCqr_jTjK8"
-      )
-      .then(
-        (result) => {
-          console.log(result.text);
-        },
-        (error) => {
-          console.log(error.text);
-        }
-      );
+    emailjs.sendForm(
+      "service_di2gzg9",
+      "template_v0ptjth",
+      form.current,
+      "NZrFMUlpCqr_jTjK8"
+    );
+
+    e.target.reset();
   };
 
   return (
     <section id="contact">
-      <h5>In Kontakt kommen</h5>
-      <h2>Kontaktiere mich</h2>
+      <h5>Get in Touch</h5>
+      <h2>Contact Me</h2>
 
       <div className="container contact__container">
         <div className="contact__options">
@@ -43,9 +36,8 @@ const Contact = () => {
             <a
               href="mailto:mr.baigmirza01@gmail.com"
               target="_blank"
-              rel="noreferrer"
-            >
-              Nachricht senden
+              rel="noreferrer">
+              Send Message
             </a>
           </article>
           <article className="contact__option">
@@ -55,9 +47,8 @@ const Contact = () => {
             <a
               href="https://telegram.me/mbaig01"
               target="_blank"
-              rel="noreferrer"
-            >
-              Nachricht senden
+              rel="noreferrer">
+              Send Message
             </a>
           </article>
           <article className="contact__option">
@@ -67,34 +58,26 @@ const Contact = () => {
             <a
               href="https://wa.me/4917667242011"
               target="_blank"
-              rel="noreferrer"
-            >
-              Nachricht senden
+              rel="noreferrer">
+              Send Message
             </a>
           </article>
         </div>
-        {/* END of contact */}
         <form ref={form} onSubmit={sendEmail}>
           <input
             type="text"
             name="name"
-            placeholder="Ihr vollständiger Name"
+            placeholder="Your Complete Name"
             required
           />
-          <input
-            type="email"
-            name="email"
-            placeholder="Deine E-Mail"
-            required
-          />
+          <input type="email" name="email" placeholder="Your Email" required />
           <textarea
             name="message"
             rows="7"
-            placeholder="Ihre Nachricht"
-            required
-          ></textarea>
+            placeholder="Your Message"
+            required></textarea>
           <button type="submit" className="btn btn-primary">
-            Nachricht senden
+            Send Message
           </button>
         </form>
       </div>

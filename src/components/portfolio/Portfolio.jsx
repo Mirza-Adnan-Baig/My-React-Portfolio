@@ -55,7 +55,7 @@ const data = [
 const Portfolio = () => {
   return (
     <section id="portfolio">
-      <h5>Meine React Projekte</h5>
+      <h5>My Projects</h5>
       <h2>Portfolio</h2>
 
       <div className="container portfolio__container">
@@ -71,16 +71,14 @@ const Portfolio = () => {
                   href={github}
                   className="btn"
                   target="__blank"
-                  rel="noreferrer"
-                >
+                  rel="noreferrer">
                   Github
                 </a>
                 <a
                   href={demo}
                   className="btn btn-primary"
                   target="_blank"
-                  rel="noreferrer"
-                >
+                  rel="noreferrer">
                   Live Demo
                 </a>
               </div>
