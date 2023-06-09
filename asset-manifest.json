@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/My-React-Portfolio/static/css/main.5a53107b.css",
-    "main.js": "/My-React-Portfolio/static/js/main.a1725de9.js",
+    "main.css": "/My-React-Portfolio/static/css/main.dc6617c0.css",
+    "main.js": "/My-React-Portfolio/static/js/main.cbe3f97c.js",
     "static/media/mirza-about.jpg": "/My-React-Portfolio/static/media/mirza-about.d53fa8cca96552846f55.jpg",
     "static/media/mirza.png": "/My-React-Portfolio/static/media/mirza.d85056820619c6f8cbba.png",
     "static/media/cv.pdf": "/My-React-Portfolio/static/media/cv.889b12dc6062b54e3769.pdf",
@@ -11,11 +11,11 @@
     "static/media/portfolio3.jpg": "/My-React-Portfolio/static/media/portfolio3.57a5ca799c78b3452f22.jpg",
     "static/media/C2.jpg": "/My-React-Portfolio/static/media/C2.6b687012c0a3de908b2e.jpg",
     "index.html": "/My-React-Portfolio/index.html",
-    "main.5a53107b.css.map": "/My-React-Portfolio/static/css/main.5a53107b.css.map",
-    "main.a1725de9.js.map": "/My-React-Portfolio/static/js/main.a1725de9.js.map"
+    "main.dc6617c0.css.map": "/My-React-Portfolio/static/css/main.dc6617c0.css.map",
+    "main.cbe3f97c.js.map": "/My-React-Portfolio/static/js/main.cbe3f97c.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a53107b.css",
-    "static/js/main.a1725de9.js"
+    "static/css/main.dc6617c0.css",
+    "static/js/main.cbe3f97c.js"
   ]
 }
