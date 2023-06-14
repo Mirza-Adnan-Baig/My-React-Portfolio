@@ -25,6 +25,11 @@ footer a {
   margin: 0 auto 3rem;
 }
 
+.permalinks :hover {
+  scale: 1.1;
+  transition: var(--transition);
+}
+
 .footer__socials {
   display: flex;
   justify-content: center;
@@ -38,7 +43,7 @@ footer a {
   padding: 0.8rem;
   border-radius: 0.7rem;
   display: flex;
-  border: 1px soild transparent;
+  border: 1px solid transparent;
 }
 .footer__socials a:hover {
   background: transparent;

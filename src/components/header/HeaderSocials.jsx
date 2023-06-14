@@ -8,23 +8,20 @@ const HeaderSocials = () => {
       <a
         href="https://www.linkedin.com/in/mirza-adnan-baig-161258157/"
         target="_blank"
-        rel="noreferrer"
-      >
-        <BsLinkedin />
+        rel="noreferrer">
+        <BsLinkedin size={22} />
       </a>
       <a
         href="https://github.com/Mirza-Adnan-Baig"
         target="_blank"
-        rel="noreferrer"
-      >
-        <FaGithub />
+        rel="noreferrer">
+        <FaGithub size={22} />
       </a>
       <a
         href="https://www.instagram.com/mirza.adnan.95/"
         target="_blank"
-        rel="noreferrer"
-      >
-        <FaInstagram />
+        rel="noreferrer">
+        <FaInstagram size={22} />
       </a>
     </div>
   );

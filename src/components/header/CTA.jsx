@@ -6,11 +6,19 @@ const CTA = () => {
       <a href={CV} download className="btn">
         Download CV
       </a>
-      <a href="#contact" className="btn btn-primary">
-        Contact
-      </a>
+      <button class="learn-more" onClick={scrollToAbout}>
+        <span class="circle" aria-hidden="true">
+          <span class="icon arrow"></span>
+        </span>
+        <span class="button-text">Learn More</span>
+      </button>
     </div>
   );
 };
+
+function scrollToAbout() {
+  const aboutSection = document.getElementById("about");
+  aboutSection.scrollIntoView({ behavior: "smooth" });
+}
 
 export default CTA;

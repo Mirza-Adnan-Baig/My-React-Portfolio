@@ -7,6 +7,7 @@ import Header from "./components/header/Header";
 import Navbar from "./components/navbar/Navbar";
 import Portfolio from "./components/portfolio/Portfolio";
 import Certificates from "./components/certificates/Certificates";
+import Slider from "./components/slider/slider";
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
       <Navbar />
       <About />
       <Experience />
+      <Slider />
       <Portfolio />
       <Certificates />
       <Contact />

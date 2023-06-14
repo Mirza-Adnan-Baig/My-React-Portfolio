@@ -6,30 +6,39 @@ import { BsLinkedin } from "react-icons/bs";
 const Footer = () => {
   return (
     <footer>
-      <a href="#" className="footer__logo">
+      <a href="#header" className="footer__logo" alt="">
         MAB
       </a>
       <ul className="permalinks">
         <li>
-          <a href="#">Home</a>
+          <a href="#header" alt="">
+            Home
+          </a>
         </li>
         <li>
-          <a href="#about">About</a>
+          <a href="#about" alt="">
+            About
+          </a>
         </li>
         <li>
-          <a href="#experience">Experience</a>
+          <a href="#experience" alt="">
+            Experience
+          </a>
         </li>
         <li>
-          <a href="#portfolio">Portfolio</a>
-        </li>
-        {/* <li>
-          <a href="#services">Services</a>
-        </li> */}
-        <li>
-          <a href="#certificates">Certificates</a>
+          <a href="#portfolio" alt="">
+            Portfolio
+          </a>
         </li>
         <li>
-          <a href="#contact">Contact</a>
+          <a href="#certificates" alt="">
+            Certificates
+          </a>
+        </li>
+        <li>
+          <a href="#contact" alt="">
+            Contact
+          </a>
         </li>
       </ul>
       <div className="footer__socials">
@@ -37,22 +46,22 @@ const Footer = () => {
           href="https://www.facebook.com/mirza.adnan.baig01"
           target="_blank"
           rel="noreferrer"
-        >
-          <FaFacebookF />
+          alt="">
+          <FaFacebookF size={20} />
         </a>
         <a
           href="https://www.instagram.com/mirza.adnan.95/"
           target="_blank"
           rel="noreferrer"
-        >
-          <AiFillInstagram />
+          alt="">
+          <AiFillInstagram size={20} />
         </a>
         <a
           href="https://www.linkedin.com/in/mirza-adnan-baig-161258157/"
           target="_blank"
           rel="noreferrer"
-        >
-          <BsLinkedin />
+          alt="">
+          <BsLinkedin size={20} />
         </a>
       </div>
       <div className="footer__copyright">

@@ -1,11 +1,17 @@
 import React from "react";
 import "./experience.css";
-import { BsPatchCheckFill } from "react-icons/bs";
 import { FaHtml5 } from "react-icons/fa";
 import { FaCss3Alt } from "react-icons/fa";
 import { SiJavascript } from "react-icons/si";
 import { FaReact } from "react-icons/fa";
 import { CgFigma } from "react-icons/cg";
+import { TbBrandTailwind } from "react-icons/tb";
+import { FaBootstrap } from "react-icons/fa";
+import { FaNodeJs } from "react-icons/fa";
+import { FaRProject } from "react-icons/fa";
+import { GrMysql } from "react-icons/gr";
+import { FaPython } from "react-icons/fa";
+import { FaJava } from "react-icons/fa";
 
 const Experience = () => {
   return (
@@ -21,14 +27,14 @@ const Experience = () => {
               <CgFigma size={22} className="experience__details-icon" />
               <div>
                 <h4>Figma</h4>
-                <small className="text-light">Intermediate</small>
+                <small className="text-light">Advanced</small>
               </div>
             </article>
             <article className="experience__details">
               <FaHtml5 size={22} className="experience__details-icon" />
               <div>
                 <h4>HTML5</h4>
-                <small className="text-light">Intermediate</small>
+                <small className="text-light">Advanced</small>
               </div>
             </article>
             <article className="experience__details">
@@ -39,10 +45,24 @@ const Experience = () => {
               </div>
             </article>
             <article className="experience__details">
+              <TbBrandTailwind size={22} className="experience__details-icon" />
+              <div>
+                <h4>Tailwind</h4>
+                <small className="text-light">Entry Level</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <FaBootstrap size={22} className="experience__details-icon" />
+              <div>
+                <h4>Bootstrap</h4>
+                <small className="text-light">Entry Level</small>
+              </div>
+            </article>
+            <article className="experience__details">
               <SiJavascript size={20} className="experience__details-icon" />
               <div>
                 <h4>JavaScript</h4>
-                <small className="text-light">Entry Level</small>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience__details">
@@ -52,54 +72,47 @@ const Experience = () => {
                 <small className="text-light">Entry Level</small>
               </div>
             </article>
-            {/* <article className="experience__details">
-              <BsPatchCheckFill className="experience__details-icon" />
-              <div>
-                <h4>React </h4>
-                <small className="text-light"></small>
-              </div>
-            </article> */}
           </div>
         </div>
 
         {/* END */}
 
         <div className="experience__backend">
-          <h3>Berufserfahrung</h3>
+          <h3>Backend Development</h3>
           <div className="experience__content">
             <article className="experience__details">
-              <BsPatchCheckFill className="experience__details-icon" />
+              <FaJava size={22} className="experience__details-icon" />
               <div>
-                <h4>Syscom I.T Solution</h4>
-                <small className="text-light">Aug 2020 - Mar 2022</small>
+                <h4>JAVA</h4>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
-            {/* <article className="experience__details">
-              <BsPatchCheckFill className="experience__details-icon" />
-              <div>
-                <h4>CSS</h4>
-                <small className="text-light">Experienced</small>
-              </div>
-            </article> */}
             <article className="experience__details">
-              <BsPatchCheckFill className="experience__details-icon" />
+              <FaNodeJs size={22} className="experience__details-icon" />
               <div>
-                <h4>Spotcomm</h4>
-                <small className="text-light">Oct 2019 - Feb 2020</small>
+                <h4>Node.js</h4>
+                <small className="text-light">Entry Level</small>
               </div>
             </article>
-            {/* <article className="experience__details">
-              <BsPatchCheckFill className="experience__details-icon" />
-              <div>
-                <h4>Tailwind</h4>
-                <small className="text-light">Experienced</small>
-              </div>
-            </article> */}
             <article className="experience__details">
-              <BsPatchCheckFill className="experience__details-icon" />
+              <GrMysql size={22} className="experience__details-icon" />
               <div>
-                <h4>JLogic Innovations</h4>
-                <small className="text-light">Nov 2016 - Jan 2017</small>
+                <h4>MySQL</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <FaRProject size={22} className="experience__details-icon" />
+              <div>
+                <h4>R Project</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <FaPython size={22} className="experience__details-icon" />
+              <div>
+                <h4>Python</h4>
+                <small className="text-light">Entry Level</small>
               </div>
             </article>
           </div>
