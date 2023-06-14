@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/My-React-Portfolio/static/css/main.dc6617c0.css",
-    "main.js": "/My-React-Portfolio/static/js/main.cbe3f97c.js",
+    "main.css": "/My-React-Portfolio/static/css/main.6bce6ef4.css",
+    "main.js": "/My-React-Portfolio/static/js/main.88e168cb.js",
     "static/media/mirza-about.jpg": "/My-React-Portfolio/static/media/mirza-about.d53fa8cca96552846f55.jpg",
     "static/media/mirza.png": "/My-React-Portfolio/static/media/mirza.d85056820619c6f8cbba.png",
     "static/media/cv.pdf": "/My-React-Portfolio/static/media/cv.889b12dc6062b54e3769.pdf",
@@ -10,12 +10,26 @@
     "static/media/portfolio1.jpg": "/My-React-Portfolio/static/media/portfolio1.14278061823fbd5e3e02.jpg",
     "static/media/portfolio3.jpg": "/My-React-Portfolio/static/media/portfolio3.57a5ca799c78b3452f22.jpg",
     "static/media/C2.jpg": "/My-React-Portfolio/static/media/C2.6b687012c0a3de908b2e.jpg",
+    "static/media/javascript-ar21.svg": "/My-React-Portfolio/static/media/javascript-ar21.bed884df9e373b58499e6fef324d5662.svg",
+    "static/media/jestjsio-ar21.svg": "/My-React-Portfolio/static/media/jestjsio-ar21.55fbfe374f6441063562950657ca566a.svg",
+    "static/media/tailwindcss-ar21.svg": "/My-React-Portfolio/static/media/tailwindcss-ar21.7193bb047abd935ce4c2ae727c0d4a5a.svg",
+    "static/media/getbootstrap-ar21.svg": "/My-React-Portfolio/static/media/getbootstrap-ar21.d2164ef4740435f6e7ec9ce8efb7482b.svg",
+    "static/media/python-ar21.svg": "/My-React-Portfolio/static/media/python-ar21.043daf52959cadc3d1887736ff786916.svg",
+    "static/media/mysql-ar21.svg": "/My-React-Portfolio/static/media/mysql-ar21.3737d1ef555157e6069bbc4a693b96dc.svg",
+    "static/media/nodejs-ar21.svg": "/My-React-Portfolio/static/media/nodejs-ar21.454eb4e556fb84e77b09c13f75516e55.svg",
+    "static/media/reactjs-ar21.svg": "/My-React-Portfolio/static/media/reactjs-ar21.cfbc1fb0cceb442c7774b91230a51de0.svg",
+    "static/media/css3-seeklogo.com.svg": "/My-React-Portfolio/static/media/css3-seeklogo.com.e7a9de36d9335d92932e93eb3b32deb9.svg",
+    "static/media/java-ar21.svg": "/My-React-Portfolio/static/media/java-ar21.11c5349144180e3f141e38d0848f8384.svg",
+    "static/media/git-scm-ar21.svg": "/My-React-Portfolio/static/media/git-scm-ar21.f89b0da7fd7814e55770442a0c19f5f2.svg",
+    "static/media/figma-ar21.svg": "/My-React-Portfolio/static/media/figma-ar21.ad871afd305180efa718ba4eeb2a8360.svg",
+    "static/media/r-project-ar21.svg": "/My-React-Portfolio/static/media/r-project-ar21.3861f62ee159117b57716262d6dcf9db.svg",
+    "static/media/w3_html5-ar21.svg": "/My-React-Portfolio/static/media/w3_html5-ar21.d1add168bfad0343225307ffd57710dd.svg",
     "index.html": "/My-React-Portfolio/index.html",
-    "main.dc6617c0.css.map": "/My-React-Portfolio/static/css/main.dc6617c0.css.map",
-    "main.cbe3f97c.js.map": "/My-React-Portfolio/static/js/main.cbe3f97c.js.map"
+    "main.6bce6ef4.css.map": "/My-React-Portfolio/static/css/main.6bce6ef4.css.map",
+    "main.88e168cb.js.map": "/My-React-Portfolio/static/js/main.88e168cb.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc6617c0.css",
-    "static/js/main.cbe3f97c.js"
+    "static/css/main.6bce6ef4.css",
+    "static/js/main.88e168cb.js"
   ]
 }
