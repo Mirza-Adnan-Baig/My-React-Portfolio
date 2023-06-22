@@ -27,55 +27,46 @@ const Experience = () => {
               <CgFigma size={22} className="experience__details-icon" />
               <div>
                 <h4>Figma</h4>
-                <small className="text-light">Advanced</small>
               </div>
             </article>
             <article className="experience__details">
               <FaHtml5 size={22} className="experience__details-icon" />
               <div>
                 <h4>HTML5</h4>
-                <small className="text-light">Advanced</small>
               </div>
             </article>
             <article className="experience__details">
               <FaCss3Alt size={22} className="experience__details-icon" />
               <div>
                 <h4>CSS3</h4>
-                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience__details">
               <TbBrandTailwind size={22} className="experience__details-icon" />
               <div>
                 <h4>Tailwind</h4>
-                <small className="text-light">Entry Level</small>
               </div>
             </article>
             <article className="experience__details">
               <FaBootstrap size={22} className="experience__details-icon" />
               <div>
                 <h4>Bootstrap</h4>
-                <small className="text-light">Entry Level</small>
               </div>
             </article>
             <article className="experience__details">
               <SiJavascript size={20} className="experience__details-icon" />
               <div>
                 <h4>JavaScript</h4>
-                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience__details">
               <FaReact size={22} className="experience__details-icon" />
               <div>
                 <h4>React</h4>
-                <small className="text-light">Entry Level</small>
               </div>
             </article>
           </div>
         </div>
-
-        {/* END */}
 
         <div className="experience__backend">
           <h3>Backend Development</h3>
@@ -84,35 +75,30 @@ const Experience = () => {
               <FaJava size={22} className="experience__details-icon" />
               <div>
                 <h4>JAVA</h4>
-                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience__details">
               <FaNodeJs size={22} className="experience__details-icon" />
               <div>
                 <h4>Node.js</h4>
-                <small className="text-light">Entry Level</small>
               </div>
             </article>
             <article className="experience__details">
               <GrMysql size={22} className="experience__details-icon" />
               <div>
                 <h4>MySQL</h4>
-                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience__details">
               <FaRProject size={22} className="experience__details-icon" />
               <div>
                 <h4>R Project</h4>
-                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience__details">
               <FaPython size={22} className="experience__details-icon" />
               <div>
                 <h4>Python</h4>
-                <small className="text-light">Entry Level</small>
               </div>
             </article>
           </div>
