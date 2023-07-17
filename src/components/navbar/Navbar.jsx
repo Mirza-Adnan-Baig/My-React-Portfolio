@@ -15,43 +15,37 @@ const Navbar = () => {
       <a
         href="#"
         onClick={() => setActiveNavbar("#")}
-        className={activeNavbar === "#" ? "active" : ""}
-      >
+        className={activeNavbar === "#" ? "active" : ""}>
         <AiOutlineHome />
       </a>
       <a
         href="#about"
         onClick={() => setActiveNavbar("#about")}
-        className={activeNavbar === "#about" ? "active" : ""}
-      >
+        className={activeNavbar === "#about" ? "active" : ""}>
         <AiOutlineUser />
       </a>
       <a
         href="#experience"
         onClick={() => setActiveNavbar("#experience")}
-        className={activeNavbar === "#experience" ? "active" : ""}
-      >
+        className={activeNavbar === "#experience" ? "active" : ""}>
         <BiBookBookmark />
       </a>
       <a
         href="#portfolio"
         onClick={() => setActiveNavbar("#portfolio")}
-        className={activeNavbar === "#portfolio" ? "active" : ""}
-      >
+        className={activeNavbar === "#portfolio" ? "active" : ""}>
         <FaLaptopCode />
       </a>
       <a
         href="#certificates"
         onClick={() => setActiveNavbar("#certificates")}
-        className={activeNavbar === "#certificates" ? "active" : ""}
-      >
+        className={activeNavbar === "#certificates" ? "active" : ""}>
         <FiAward />
       </a>
       <a
         href="#contact"
         onClick={() => setActiveNavbar("#contact")}
-        className={activeNavbar === "#contact" ? "active" : ""}
-      >
+        className={activeNavbar === "#contact" ? "active" : ""}>
         <AiOutlineMessage />
       </a>
     </nav>
