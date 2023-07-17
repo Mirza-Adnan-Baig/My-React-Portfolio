@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/My-React-Portfolio/static/css/main.6bce6ef4.css",
-    "main.js": "/My-React-Portfolio/static/js/main.e0b11133.js",
+    "main.js": "/My-React-Portfolio/static/js/main.34521535.js",
     "static/media/mirza-about.jpg": "/My-React-Portfolio/static/media/mirza-about.d53fa8cca96552846f55.jpg",
     "static/media/mirza.png": "/My-React-Portfolio/static/media/mirza.d85056820619c6f8cbba.png",
     "static/media/cv.pdf": "/My-React-Portfolio/static/media/cv.889b12dc6062b54e3769.pdf",
@@ -18,7 +18,7 @@
     "static/media/mysql-ar21.svg": "/My-React-Portfolio/static/media/mysql-ar21.3737d1ef555157e6069bbc4a693b96dc.svg",
     "static/media/nodejs-ar21.svg": "/My-React-Portfolio/static/media/nodejs-ar21.454eb4e556fb84e77b09c13f75516e55.svg",
     "static/media/reactjs-ar21.svg": "/My-React-Portfolio/static/media/reactjs-ar21.cfbc1fb0cceb442c7774b91230a51de0.svg",
-    "static/media/css3-seeklogo.com.svg": "/My-React-Portfolio/static/media/css3-seeklogo.com.e7a9de36d9335d92932e93eb3b32deb9.svg",
+    "static/media/css3-seeklogo.com.svg": "/My-React-Portfolio/static/media/css3-seeklogo.com.926611385610b2f0ba730d6fd84e47ad.svg",
     "static/media/java-ar21.svg": "/My-React-Portfolio/static/media/java-ar21.11c5349144180e3f141e38d0848f8384.svg",
     "static/media/git-scm-ar21.svg": "/My-React-Portfolio/static/media/git-scm-ar21.f89b0da7fd7814e55770442a0c19f5f2.svg",
     "static/media/figma-ar21.svg": "/My-React-Portfolio/static/media/figma-ar21.ad871afd305180efa718ba4eeb2a8360.svg",
@@ -26,10 +26,10 @@
     "static/media/w3_html5-ar21.svg": "/My-React-Portfolio/static/media/w3_html5-ar21.d1add168bfad0343225307ffd57710dd.svg",
     "index.html": "/My-React-Portfolio/index.html",
     "main.6bce6ef4.css.map": "/My-React-Portfolio/static/css/main.6bce6ef4.css.map",
-    "main.e0b11133.js.map": "/My-React-Portfolio/static/js/main.e0b11133.js.map"
+    "main.34521535.js.map": "/My-React-Portfolio/static/js/main.34521535.js.map"
   },
   "entrypoints": [
     "static/css/main.6bce6ef4.css",
-    "static/js/main.e0b11133.js"
+    "static/js/main.34521535.js"
   ]
 }
